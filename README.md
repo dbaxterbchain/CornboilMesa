@@ -4,4 +4,4 @@ A single-page promotional site for the fictional annual Beanchain Corn Boil fund
 
 ## Getting Started
 
-Open `index.html` in your browser to view the site. The page references `styles.css` for styling and `script.js` for interactive enhancements such as the mobile navigation toggle, live copyright year, and newsletter confirmation message.
+Open `docs/index.html` in your browser to view the site. The page references the accompanying `styles.css` for styling and `script.js` for interactive enhancements such as the mobile navigation toggle, live copyright year, and newsletter confirmation message.
